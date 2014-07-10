@@ -1,0 +1,2 @@
+﻿GUID1(32 alhpanumerical characters)
+GUID2(32 alhpanumerical characters)

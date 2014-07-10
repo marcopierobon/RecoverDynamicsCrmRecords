@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <add key="username" value="" />
+  <add key="domain" value="" />
+  <add key="password" value="" />
+  <add key="organizationUri" value="" />
+  <add key="homeRealmUri" value="" />
+</Settings>
